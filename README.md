@@ -15,8 +15,6 @@ A comprehensive and modern e-commerce platform built using Django. This project 
 - **User Authentication**: Secure user registration, login, and profile management.
 - **Product Management**: CRUD operations for product listings with categories and tags.
 - **Shopping Cart**: Add, update, and remove items from the shopping cart.
-- **Order Management**: Place orders, track order status, and manage order history.
-- **Payment Gateway Integration**: Seamless payment processing using Stripe/PayPal.
 - **Admin Dashboard**: A comprehensive dashboard for managing users, products, and orders.
 
 ## Getting Started
